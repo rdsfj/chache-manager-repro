@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "cache-manager": "^5.1.7",
+    "jest": "^29.5.0"
+  }
+}
